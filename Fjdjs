@@ -1,0 +1,6 @@
+cd /home/workdir/artifacts/bluetooth-finder
+
+# Nahraď TVOJE_UZIVATELSKE_JMENO svým GitHub uživatelským jménem
+git remote add origin https://github.com/TVOJE_UZIVATELSKE_JMENO/bluetooth-finder.git
+
+git push -u origin main
